@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+p.ph1{
+	font-size: 14px;
+	text-align: justify;
+	margin: 15px;
+}
+h1.ph1{
+	font-size: 30px;
+	text-align: justify;
+	margin: 15px;
+}
+h1.Topic1{
+	margin-left: 233px;
+	color: #0071ff;
+}
+hr{
+	width:71%;
+	position: relative;
+	left: 9px;
+	
+}
+h2.Topic2{
+	margin-left: 233px;
+}
+table.colomboTable{
+	margin-left: 233px;
+	
+}
