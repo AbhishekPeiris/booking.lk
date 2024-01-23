@@ -112,7 +112,7 @@
 					<% } else { %>
 					
 						 <li>
-	                        <a href="RegisteredUserInsert.jsp">Register</a>
+	                        <a href="#">Register</a>
 	                    </li>
                     
                     <li>
